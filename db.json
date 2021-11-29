@@ -28,7 +28,7 @@
       "id": 4,
       "name": "Natural fruit juice",
       "price": 7,
-      "image": "https://firebasestorage.googleapis.com/v0/b/ac-burger-queen.appspot.com/o/img-burger%2Fmenujugo.png?alt=media&token=1f2d29ee-3d77-4972-b9af-4728ad1804d8",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ac-burger-queen.appspot.com/o/img-burger%2Fjugosfrutas.png?alt=media&token=86026322-55f6-4daf-92df-6c148dd55091",
       "type": "Breakfast",
       "dateEntry": null
     },
@@ -84,7 +84,7 @@
       "id": 11,
       "name": "Soda 500ml",
       "price": 7,
-      "image": "https://firebasestorage.googleapis.com/v0/b/ac-burger-queen.appspot.com/o/img-burger%2Fsoda500.png?alt=media&token=a0475e47-573a-4c24-bd9b-1a9a7768481a",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ac-burger-queen.appspot.com/o/img-burger%2Fsoda500.png?alt=media&token=63f09bea-6dc0-4481-869a-f4ee8dec1a42",
       "type": "Lunch",
       "dateEntry": null
     },
