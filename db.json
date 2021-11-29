@@ -84,7 +84,7 @@
       "id": 11,
       "name": "Soda 500ml",
       "price": 7,
-      "image": "https://firebasestorage.googleapis.com/v0/b/ac-burger-queen.appspot.com/o/img-burger%2Fgaseosas.png?alt=media&token=4ebea2e8-f568-470c-973d-caa93edc60fd",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ac-burger-queen.appspot.com/o/img-burger%2Fsoda500.png?alt=media&token=a0475e47-573a-4c24-bd9b-1a9a7768481a",
       "type": "Lunch",
       "dateEntry": null
     },
@@ -92,7 +92,7 @@
       "id": 12,
       "name": "Soda 750ml",
       "price": 10,
-      "image": "https://firebasestorage.googleapis.com/v0/b/ac-burger-queen.appspot.com/o/img-burger%2Fgaseosas.png?alt=media&token=4ebea2e8-f568-470c-973d-caa93edc60fd",
+      "image": "https://firebasestorage.googleapis.com/v0/b/ac-burger-queen.appspot.com/o/img-burger%2Fsoda750.png?alt=media&token=1a883b69-1931-453a-b67e-b06f85446549",
       "type": "Lunch",
       "dateEntry": null
     }
