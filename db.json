@@ -96,25 +96,7 @@
       "type": "Lunch",
       "dateEntry": null
     }
-  ],
+   ],
   "order": [
-    {
-      "id": 1637796992054,
-      "orderItems": [
-        {
-          "id": 3,
-          "name": "Sandwich",
-          "price": 10,
-          "image": "https://firebasestorage.googleapis.com/v0/b/ac-burger-queen.appspot.com/o/img-burger%2Fmenusandwich.png?alt=media&token=4f75e45c-8bce-4786-a343-4a7c032ccde0",
-          "type": "Breakfast",
-          "dateEntry": null,
-          "qty": 1
-        }
-      ],
-      "total": 10,
-      "status": "Pending",
-      "userName": "sky gabriela",
-      "dateOrder": "2021-11-24T23:36:32.054Z"
-    }
-  ]
+     ]
 }
